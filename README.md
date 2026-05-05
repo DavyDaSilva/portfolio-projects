@@ -10,6 +10,7 @@ Aqui meu portfolio com varios projetos,
 * Logistic Regression
 * DashBoard in Power BI
 * A/B test with Abacus.AI
+* AI agent with n8n to Automated Analyses
 
 ---
 
